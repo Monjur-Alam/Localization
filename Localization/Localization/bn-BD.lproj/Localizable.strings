@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Pathao Ltd on 15/3/23.
+  
+*/
+
+"Text Localization" = "টেক্সট স্থানীয়করণ";
+"Localization refers to the process of adapting a software application or content to a specific language, region, or culture. It involves translating and adapting various elements of the application, such as text, images, date formats, currencies, and other culturally specific components, to make it suitable and accessible to users from different regions." = "স্থানীয়করণ বলতে একটি নির্দিষ্ট ভাষা, অঞ্চল বা সংস্কৃতির সাথে একটি সফ্টওয়্যার অ্যাপ্লিকেশন বা বিষয়বস্তুকে অভিযোজিত করার প্রক্রিয়াকে বোঝায়। এটি বিভিন্ন অঞ্চলের ব্যবহারকারীদের জন্য উপযোগী এবং অ্যাক্সেসযোগ্য করে তুলতে অ্যাপ্লিকেশনটির বিভিন্ন উপাদান, যেমন পাঠ্য, চিত্র, তারিখ বিন্যাস, মুদ্রা এবং অন্যান্য সাংস্কৃতিকভাবে নির্দিষ্ট উপাদানগুলি অনুবাদ এবং অভিযোজিত করে।";

@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Pathao Ltd on 15/3/23.
+  
+*/
+
+"Text Localization" = "Text Localization";
+"Localization refers to the process of adapting a software application or content to a specific language, region, or culture. It involves translating and adapting various elements of the application, such as text, images, date formats, currencies, and other culturally specific components, to make it suitable and accessible to users from different regions." = "Localization refers to the process of adapting a software application or content to a specific language, region, or culture. It involves translating and adapting various elements of the application, such as text, images, date formats, currencies, and other culturally specific components, to make it suitable and accessible to users from different regions.";
